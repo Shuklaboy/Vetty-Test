@@ -2,6 +2,7 @@
  Vetty Assesment Test - Vikas Shukla - shuklaboy452@gmail.com
 
 # Task 2: Basic Linux Commands 
+
 ○ Create a directory named VettyTest. 
     -> mkdir VettyTest
     -> cd VettyTest
@@ -15,8 +16,8 @@
     -> ./script.sh
  
  ![alt text](<task2.jpg>)
+ 
  # Task 3: Docker Basics 
-
 1. Create a simple Dockerfile to run an NGINX server. 
 ○ Use the latest NGINX image. 
 ○ Expose port 80. 
