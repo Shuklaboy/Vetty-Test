@@ -14,6 +14,7 @@
     -> chmod +x script.sh
     -> ./script.sh
  
+ ![alt text](<task2.jpg>)
  # Task 3: Docker Basics 
 
 1. Create a simple Dockerfile to run an NGINX server. 
