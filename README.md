@@ -14,6 +14,7 @@
     
 ○ Write a script in script.sh to print "Welcome to DevOps!" to the terminal. 
     -> nano script.sh
+    
     -> echo "Welcome to DevOps!"
     
 ○ Make the script executable and run it.
