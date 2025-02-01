@@ -37,6 +37,10 @@ Create a Dockerfile
 3. Open the Nginx default page
 using web preview in GCP 
 
+![alt text](<task3-1.jpg>)
+![alt text](<task3-2.jpg>)
+
+
 
 
 
